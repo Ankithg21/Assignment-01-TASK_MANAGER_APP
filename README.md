@@ -15,22 +15,13 @@ A full-stack Task Management application built using the MERN stack (MongoDB, Ex
 ## 🛠️ Installation
 
 ### 🔙 Backend
-'''
-cd App/backend
-'''
-npm install
-'''
 
-Start the backend server:
-'''
-npm start
-'''
-🎨 Frontend
-'''
-cd App/frontend
-npm install
-'''
-Start the frontend server:
-'''
-npm start
-'''
+1. cd backend
+2. npm install
+3. npm start
+
+### 🎨 Frontend
+1. cd frontend
+2. npm install
+3. npm start
+
