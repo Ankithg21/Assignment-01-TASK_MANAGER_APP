@@ -17,6 +17,7 @@ A full-stack Task Management application built using the MERN stack (MongoDB, Ex
 ### 🔙 Backend
 '''
 cd App/backend
+'''
 npm install
 '''
 
